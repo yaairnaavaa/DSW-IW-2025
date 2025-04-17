@@ -2,7 +2,7 @@
 
 <br>
 
-# 👋 Hola, Nano
+# 👋 Hola, Soy Nano
 
 ## 🎓 Información general
 - 📚 Carrera: Ingeniería en Sistemas Computacionales
