@@ -84,7 +84,7 @@ git checkout HEAD~2 -- doc.txt # Restaura archivo a como estaba hace 2 commits
 **Descripción**: Combina los cambios de una rama con la rama actual, creando un nuevo commit de merge cuando es necesario. Es la forma estándar de integrar cambios entre ramas.
 **Ejemplo**:
 ```bash
-git merge feature/login     # Fusiona la rama feature/login con la actual
+git merge main/login     # Fusiona la rama feature/login con la actual
 git merge --no-ff release  # Fuerza creación de commit de merge (evita fast-forward)
 git merge --abort          # Cancela un merge con conflictos
 ```
