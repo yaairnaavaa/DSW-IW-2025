@@ -1,5 +1,5 @@
 <img src="https://avatars.githubusercontent.com/u/164229629" width="150" alt="Foto de perfil de Yair Nava" />
-#¡👋 Hola!, soy Sergio Alberto Pardo Pérez
+# ¡👋 Hola!, soy Sergio Alberto Pardo Pérez
 
 ---
 
