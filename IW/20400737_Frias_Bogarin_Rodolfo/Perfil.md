@@ -1,6 +1,6 @@
 # 👤 Perfil Personal
 
-![Foto de perfil]([https://github.com/Rofriasbo.png](https://avatars.githubusercontent.com/u/141285159?s=400&u=feece4baa98200564c7d2efb5189bb219078d1db&v=4))
+![Foto de perfil](https://avatars.githubusercontent.com/u/141285159?s=400&u=feece4baa98200564c7d2efb5189bb219078d1db&v=4)
 
 ## 📋 Información General
 
