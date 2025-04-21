@@ -1,6 +1,6 @@
 # 📘 Comandos Git
 
-A continuación se presentan 20 comandos esenciales de Git, acompañados de su descripción y un ejemplo de uso para cada uno.
+
 
 ---
 
