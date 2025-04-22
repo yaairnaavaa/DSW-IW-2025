@@ -8,13 +8,13 @@
 - 🆔 Número de Control: 21400754
 
 ## 💻 Intereses
-🌐 Desarrollo web
-🗃️ Administración de Base de Datos
-📺 YouTube Lover
-🎬 Cinéfila en Potencia
-🧑‍💻 Desarrollo de Software
-🎲 Juegos de Mesa
-🧠 Jugadora Profesional de Trivia
+- 🌐 Desarrollo web
+- 🗃️ Administración de Base de Datos
+- 📺 YouTube Lover
+- 🎬 Cinéfila en Potencia
+- 🧑‍💻 Desarrollo de Software
+- 🎲 Juegos de Mesa
+- 🧠 Jugadora Profesional de Trivia
 
 ## 🛠 Tecnologías que conozco
 - JavaScript, NodeJs
