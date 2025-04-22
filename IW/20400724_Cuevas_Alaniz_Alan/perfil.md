@@ -1,4 +1,4 @@
-<img src="https://avatars.githubusercontent.com/u/162539480?v=4"width="150" alt="Foto de perfil de Alan Cuevas">
+<img src="https://avatars.githubusercontent.com/u/162539480?v=4" width="150" alt="Foto de perfil de Alan Cuevas">
 
 # 👋 Hola, soy Alan Cuevas
 
