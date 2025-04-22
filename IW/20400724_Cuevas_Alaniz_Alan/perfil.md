@@ -20,6 +20,6 @@
 - Git y GitHub
 
 ## 📫 Cómo contactarme
-- Correo: acuevas@ittepic.edu.mx
+- Correo: alcuevasal@ittepic.edu.mx
 - GitHub: (https://github.com/MrMetalXD)
 
