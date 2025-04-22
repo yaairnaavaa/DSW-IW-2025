@@ -8,9 +8,10 @@
 - 🆔 Número de Control: 20400724
 
 ## 💻 Intereses
-- VideoJuegos
+- Jugar VideoJuegos
 - Desarrollo Web 
-- Desarrollo de interfaces 
+- Escuchar musica
+- Ver peliculas y series 
 
 ## 🛠 Tecnologías que conozco
 - NodeJs
