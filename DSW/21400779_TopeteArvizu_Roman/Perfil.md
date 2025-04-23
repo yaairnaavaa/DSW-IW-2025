@@ -1,4 +1,5 @@
-https://avatars.githubusercontent.com/u/170288783?v=4
+
+<img src="https://avatars.githubusercontent.com/u/170288783?v=4" width="150" alt="Foto de Roman" />
 
 👋 Hola, Me llamo Román
 🔥🔥 Información general 🔥🔥
@@ -17,7 +18,7 @@ Desarrollo móvil
 🛠 Tecnologías que conozco
 JavaScript, NodeJs, C#, 
 Java, MongoDB, SQL, React,
-Git y GitHub
+Git, Arduino, Python
 
 📫 Cómo contactarme
 Correo: rotopetear@ittepic.edu.mx
