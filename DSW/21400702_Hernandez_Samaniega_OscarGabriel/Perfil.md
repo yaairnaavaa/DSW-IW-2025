@@ -1,4 +1,4 @@
-<img src="https://imgur.com/a/wnbXlQT" width="150" alt="Mi foto de perfil" />
+<img src="https://avatars.githubusercontent.com/u/162831026?s=400&u=1392b37b25589cf9447172e682bc13680b8d1523&v=4" width="150" alt="Foto de perfil de Andrea Escobar" />
 
 # soy Oscar Hernandez
 
