@@ -19,6 +19,7 @@ Json recibido:
     "code" : 200,
     "msg" : "Pelicula creada"
 }
+
 2.- Consulta una pelicula por su id:
 Descripcion:
 Consukta de una pelicula poniendo su id en el URI
@@ -61,6 +62,7 @@ Json recibido:
     "code" : 201,
     "msg" : "Pelicula actualizada"
 }
+
 4.- Borra una pelicula por su id:
 Descripcion:
 Eliminar una pelicula mediante su id poniendolo en el URI
