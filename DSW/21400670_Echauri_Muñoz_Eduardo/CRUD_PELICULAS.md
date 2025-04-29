@@ -1,9 +1,5 @@
 # CRUD de Películas - Flujo Cliente-Servidor
 
-Este documento describe las interacciones Cliente-Servidor para un CRUD básico en una tienda de películas.
-
----
-
 ## 1. Crear una película
 
 **Descripción:** Crear una película.
@@ -119,15 +115,4 @@ Este documento describe las interacciones Cliente-Servidor para un CRUD básico 
 
 ---
 
-## Estructura de una película
 
-```json
-{
-  "id" : Number,
-  "nombre" : String,
-  "director" : String,
-  "año" : Number,
-  "duración" : Number,
-  "genero" : String
-}
-```
