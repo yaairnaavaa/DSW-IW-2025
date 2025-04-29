@@ -7,7 +7,7 @@
 **URI:** /movies
 
 **Json enviado:** 
-{
+```json
     {
         "id" : 1,
         "nombre" : "Terminator",
@@ -16,15 +16,15 @@
         "duración" : 2,
         "genero" : "Ciencia Ficción"
     }
-}
+```
 
 **Json recibido:**
-{
+```json
     {
         "code" : 100,
         "Msj" : "Pelicula añadida"
     }
-}
+```
 
 ---
 
@@ -37,14 +37,14 @@
 **URI:** /movies/2
 
 **Json enviado:** 
-{
+```json
    {
 
    }
-}
+```
 
 **Json recibido:**
-{
+```json
     {
         "code" : 200,
         "data" :{
@@ -56,7 +56,7 @@
                     "genero" : "Ciencia Ficción"
                 }
     }
-}
+```
 
 ---
 
@@ -69,19 +69,19 @@
 **URI:** /movies/3
 
 **Json enviado:** 
-{
+```json
     {
         "año" : 1990
     }
-}
+```
 
 **Json recibido:**
-{
+```json
     {
         "code" : 101,
         "Msj" : "Datos de la Pelicula actualizados"
     }
-}
+```
 
 ---
 
@@ -94,18 +94,18 @@
 **URI:** /movies/2
 
 **Json enviado:** 
-{
+```json
     {
    
     }
-}
+```
 
 **Json recibido:**
-{
+```json
     {
         "code" : 100,
         "Msj" : "Pelicula eliminada"
     }
-}
+```
 
 ---
