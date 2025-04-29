@@ -1,11 +1,7 @@
 # Actividad 1 b. 20 comandos de Github
 
 ## 1. git init
-**Descripción:** Inicializa un repositorio Git vacío en el directorio actual. Se crea una carpeta oculta llamada `.git` que contiene toda la información necesaria del repositorio.
-
-**Uso:** Se usa cuando comienzas un proyecto desde cero y quieres que sea gestionado por Git.
-
-**Ejemplo de uso:**
+c
 ```bash
 - `git init` → Crea un repositorio Git local en la carpeta actual.
 ```
