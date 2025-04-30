@@ -1,14 +1,14 @@
 # 1. Crear una película.
-* ## Descripcion
+## Descripcion
 Crear una pelicula
 
-* ## Metodo HTTP
+## Metodo HTTP
 POST
 
-* ## URI
+## URI
 api/peliculas
 
-* ## Json enviado
+## Json enviado
 {
     "id" : 1,
     "nombre" : Titanic,
@@ -18,7 +18,7 @@ api/peliculas
     "genero" : Romantica
 }
 
-* ## Json recibido
+## Json recibido
 {
     "code" : 200,
     "msg" : "Pelicula Creada",
@@ -27,21 +27,21 @@ api/peliculas
 ---
 
 # 2. Consulta una película por su id.
-* ## Descripcion
+## Descripcion
 Consultar una pelicula por su id
 
-* ## Metodo HTTP
+## Metodo HTTP
 GET
 
-* ## URI
+## URI
 api/peliculas/1
 
-* ## Json enviado
+## Json enviado
 {
 
 }
 
-* ## Json recibido
+## Json recibido
 {
     "code" : 200,
     "data" : {
@@ -53,26 +53,27 @@ api/peliculas/1
         "genero" : Romantica
     }
 }
+
 ---
 
 # 3. Actualiza el año, director y duración de una película por su id
-* ## Descripcion
+## Descripcion
 Actualizar el año, director y duración de una pelicula por su id
 
-* ## Metodo HTTP
+## Metodo HTTP
 PUT
 
-* ## URI
+## URI
 api/peliculas/1
 
-* ## Json enviado
+## Json enviado
 {
     "director" : Alberto Pardo,
     "año" : 2003,
     "duración" : 24:24,
 }
 
-* ## Json recibido
+## Json recibido
 {
     "code" : 201,
     "msg" : "Pelicula Actualizada"
@@ -81,21 +82,21 @@ api/peliculas/1
 ---
 
 # 4. Borra una película por su id.
-* ## Descripcion
+## Descripcion
 Eliminar una pelicula por su id
 
-* ## Metodo HTTP
+## Metodo HTTP
 DELETE
 
-* ## URI
+## URI
 api/peliculas/1
 
-* ## Json enviado
+## Json enviado
 {
 
 }
 
-* ## Json recibido
+## Json recibido
 {
     "code" : 200,
     "msg" : "Pelicula Eliminada"
