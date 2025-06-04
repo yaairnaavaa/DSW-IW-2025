@@ -1,7 +1,7 @@
 # Actividad 1 b. 20 comandos de Github
 
 ## 1. git init
-**Descripción:** Inicializa un repositorio Git vacío en el directorio actual. Se crea una carpeta oculta llamada `.git` que contiene toda la información necesaria del repositorio.
+**Descripción:**  Este comando convierte una carpeta normal en un repositorio Git, crea un subdirectorio oculto .git que contiene la configuración del repositorio, historial de versiones, referencias, ramas, etc.
 
 **Uso:** Se usa cuando comienzas un proyecto desde cero y quieres que sea gestionado por Git.
 
@@ -208,3 +208,4 @@ versiones.
 ```
 
 # 21400694 - Guizar Escobar Andrea Vianney
+## Profe, cuando subimos la actividad CRUD de películas, se quitó una parte del texto al inicio :( por eso hice otro commit para restaurarlo
